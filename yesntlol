@@ -2,4 +2,6 @@
 voidmane()
  {
   print("hey stalin");
+ 
+ print("/nThis is the basic c program");
  }
