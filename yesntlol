@@ -1,5 +1,5 @@
-+ #include<studio.h>
-+ voidmane()
-+ {
-+  print("hey stalin");
-+ }
+#include<studio.h>
+voidmane()
+ {
+  print("hey stalin");
+ }
